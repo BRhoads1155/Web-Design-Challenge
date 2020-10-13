@@ -8,3 +8,4 @@ df.to_html('data.html', index=False)
 
 # Assign to string
 table = df.to_html()
+print(table)
